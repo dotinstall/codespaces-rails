@@ -1,2 +1,2 @@
-# AllCops:
-#   DisabledByDefault: true
+AllCops:
+  DisabledByDefault: true
