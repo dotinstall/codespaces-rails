@@ -16,7 +16,8 @@
     "vscode": {
       "extensions": [
         "Shopify.ruby-lsp",
-        "castwide.solargraph"
+        "castwide.solargraph",
+        "GitHub.codespaces"
       ]
     }
   },
