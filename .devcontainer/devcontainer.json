@@ -1,6 +1,7 @@
 {
   "image": "mcr.microsoft.com/devcontainers/ruby:3",
   "waitFor": "onCreateCommand",
+  "onCreateCommand": "gem install solargraph",
   "updateContentCommand": "bundle install",
   "postCreateCommand": "",
   "postAttachCommand": {
@@ -14,7 +15,8 @@
     },
     "vscode": {
       "extensions": [
-        "Shopify.ruby-lsp"
+        "Shopify.ruby-lsp",
+        "castwide.solargraph"
       ]
     }
   },
