@@ -17,7 +17,8 @@
       "extensions": [
         "Shopify.ruby-lsp",
         "castwide.solargraph",
-        "GitHub.codespaces"
+        "GitHub.codespaces",
+        "vortizhe.simple-ruby-erb"
       ]
     }
   },
