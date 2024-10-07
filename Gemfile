@@ -54,9 +54,9 @@ group :development, :test do
 end
 
 group :development do
-  gem "solargraph"
+  # gem "solargraph"
 
-  gem "erb_lint"
+  # gem "erb_lint"
 
   # Add speed badges [https://github.com/MiniProfiler/rack-mini-profiler]
   # gem "rack-mini-profiler"
